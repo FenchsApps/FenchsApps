@@ -4,11 +4,11 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FenchsApps&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FenchsApps)](https://git.io/streak-stats)
 
 ### About me
 
-I'm a Full Stack from Russia
+I'm a Full Stack Developer from Russia
 For fun, I make all sorts of utilities that will be useful when working with GNU/Linux distributions
 
 ### :hammer_and_wrench: Languages and Tools : 
