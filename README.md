@@ -8,7 +8,7 @@
 
 ### About me
 
-I'm a Full Stack Developer from Russia.
+I'm a Frontend Developer from Russia.
 For fun, I make all sorts of utilities that will be useful when working with GNU/Linux distributions
 
 ### :hammer_and_wrench: Languages and Tools : 
