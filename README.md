@@ -1,4 +1,4 @@
-## Hello My Friends 
+
 
 ---
 
@@ -6,20 +6,36 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FenchsApps)](https://git.io/streak-stats)
 
-### About me
+# 👋 Hi, I'm FenchsApps!
 
-I'm a Frontend Developer from Russia.
-For fun, I make all sorts of utilities that will be useful when working with GNU/Linux distributions
+Welcome to my GitHub profile! I'm passionate about building apps, exploring Linux distros, and sharing helpful tools with the community.
 
-### :hammer_and_wrench: Languages and Tools : 
-<div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/react/react-original.svg" alt="React" title="React" width-"40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nodejs/nodejs-original.svg" alt="Nodejs" title="NodeJS" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="NeoVim" alt="NeoVim" width="40" height="40"/>&nbsp;
+## 🚀 My Fav Projects
 
-</div>
+- [**Purple Browser**](https://github.com/FenchsApps/purple-browser): A privacy-focused, customizable web browser.
+- [**HelpMeWithLinuxDistro**](https://github.com/FenchsApps/helpmewithlinuxdistro): Resources and scripts to make your Linux experience smoother.
+- [**App Navigator**](https://github.com/FenchsApps/app-navigator): Easily navigate and manage your apps.
+- [**Diary**](https://github.com/FenchsApps/diary): A simple, private diary application.
+- [**FenchsApps.github.io**](https://github.com/FenchsApps/FenchsApps.github.io): My personal website and blog.
+
+## 🛠️ Tech I Enjoy
+
+- **Languages:** JavaScript, TypeScript, Shell, HTML/CSS
+- **Frameworks:** React, TailWindcss
+- **Tools:** VS Code, NVim, Git, Gentoo GNU/Linux, Bash
+
+## 🌱 Currently Learning
+
+- Advanced Linux system customization
+- New JavaScript frameworks
+- How to automate more of my workflow
+
+## 🤝 Let's Connect!
+
+- [My Website](https://fenchsapps.github.io/)
+- [GitHub Discussions](https://github.com/FenchsApps/FenchsApps.github.io/discussions)
+- Open to collaboration, feedback, and new ideas!
+
+---
+
+*Thanks for visiting my profile! Have a great day! 🚀*
