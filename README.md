@@ -1,40 +1,39 @@
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FenchsApps&theme=city-lights&border_radius=5.6&short_numbers=true&background=53%2C7451B6%2C76237B"
+</p>
+<p align="center">
+  <a href="https://fenchsapps.github.io">
+    <img src="https://readme-typing-svg.demolab.com/?lines=FrontEnd+Developer;FenchsApps"></a>
+</p>
 
+<h2 align="center">👋 Hi, I'm FenchsApps!</h2>
 
----
+<h3 align="center">Welcome to my GitHub profile! I'm passionate about building apps, exploring Linux distros, and sharing helpful tools with the community. </h3>
 
-### :fire: My Stats :
+<h2 align="center"> 🚀 My Fav Open Source Repos: </h2>
+<h3>
+    <p align="center">
+    <a href="https://github.com/FenchsApps/purple-browser">Purple Browser</a>
+    </p>
+    <p align="center">
+    <a href="https://github.com/FenchsApps/helpmewithlinuxdistro">Help Me With Linux Distro</a>
+    </p>
+    <p align="center">
+    <a href="https://github.com/FenchsApps/FenchsApps.github.io">fenchsapps.github.io</a>
+    </p>
+    
+</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FenchsApps&theme=city-lights&border_radius=5.6&short_numbers=true&background=53%2C7451B6%2C76237B)](https://git.io/streak-stats)
+ <h3 align="center"> Tech i Enjoy </h3>
 
-# 👋 Hi, I'm FenchsApps!
+    - Languages: JavaScript, TypeScript, Shell, HTML/CSS
+    - Frameworks: React, TailWindcss
+    - Tools: VS Code, NVim, Git, Gentoo GNU/Linux, Bash
 
-Welcome to my GitHub profile! I'm passionate about building apps, exploring Linux distros, and sharing helpful tools with the community.
+<h3 align="center">🤝 Let's Connect! </h3>
 
-## 🚀 My Fav Projects
-
-- [**Purple Browser**](https://github.com/FenchsApps/purple-browser): A privacy-focused, customizable web browser.
-- [**HelpMeWithLinuxDistro**](https://github.com/FenchsApps/helpmewithlinuxdistro): Resources and scripts to make your Linux experience smoother.
-- [**App Navigator**](https://github.com/FenchsApps/app-navigator): Easily navigate and manage your apps.
-- [**Diary**](https://github.com/FenchsApps/diary): A simple, private diary application.
-- [**FenchsApps.github.io**](https://github.com/FenchsApps/FenchsApps.github.io): My personal website and blog.
-
-## 🛠️ Tech I Enjoy
-
-- **Languages:** JavaScript, TypeScript, Shell, HTML/CSS
-- **Frameworks:** React, TailWindcss
-- **Tools:** VS Code, NVim, Git, Gentoo GNU/Linux, Bash
-
-## 🌱 Currently Learning
-
-- Advanced Linux system customization
-- New JavaScript frameworks
-- How to automate more of my workflow
-
-## 🤝 Let's Connect!
-
-- [My Website](https://fenchsapps.github.io/)
-- [GitHub Discussions](https://github.com/FenchsApps/FenchsApps.github.io/discussions)
-- Open to collaboration, feedback, and new ideas!
+<h3 align="center"> <a href="https://fenchsapps.github.io">https://fenchsapps.github.io/</a>
+</h3>
 
 ---
 
