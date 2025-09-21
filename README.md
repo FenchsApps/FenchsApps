@@ -4,7 +4,7 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak][GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FenchsApps&theme=city-lights&border_radius=5.6&short_numbers=true&background=53%2C7451B6%2C76237B)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FenchsApps&theme=city-lights&border_radius=5.6&short_numbers=true&background=53%2C7451B6%2C76237B)](https://git.io/streak-stats)
 
 # 👋 Hi, I'm FenchsApps!
 
